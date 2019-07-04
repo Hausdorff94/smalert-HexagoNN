@@ -17,4 +17,4 @@ En esta carpeta se encuentra el código de la app Smalert realizada en Unity y e
 
 
 ### Proyecto completo en repositorio:
-[Hubo un problema al subir la carpeta smalert_app y se creó un repositorio nuevo](https://github.com/Rexcoco/SMALERT-Repository)
+Hubo un problema al subir la carpeta smalert_app y se creó un repositorio nuevo [aquí](https://github.com/Rexcoco/SMALERT-Repository)
