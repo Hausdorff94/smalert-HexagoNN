@@ -12,3 +12,5 @@ Esta carpeta contiene el RPA para la extracción de datos de la plataforma SIATA
 
 #### SMALERT_APP
 En esta carpeta se encuentra el código de la app Smalert realizada en Unity y el APK correspondiente.
++ Projecto app: [APP in Unity](https://drive.google.com/open?id=16J2fuzifWjEX7CBqTSXK8_by2AchcA1B)
++ APK: [APK smalert](https://drive.google.com/open?id=1eLjI-fzqpLK6qlrRCzxl1ByK_EVe7BQm)
