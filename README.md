@@ -4,7 +4,6 @@ Este repositorio contiene el código desarrollado para dar solución a un reto d
 
 + Aplicación móvil en Android que genera alertas tempranas y se alimenta de una base de datos en Cloudant de IBM.
 + RPA que extrae datos de la plataforma SIATA de los sensores de nivel de las cuencas hídricas del Valle de Aburrá y sube automáticamente a la base de datos alojada en Cloudant de donde se alimenta la app para generar las alertas.
-<<<<<<< HEAD
 
 ## Carpetas
 
@@ -13,5 +12,3 @@ Esta carpeta contiene el RPA para la extracción de datos de la plataforma SIATA
 
 ### SMALERT_APP
 En esta carpeta se encuentra el código de la app Smalert realizada en Unity y el APK correspondiente.
-=======
->>>>>>> 1204dd14ecbc974b26930c11ce08fd0b37c2d330
