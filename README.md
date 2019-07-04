@@ -1,5 +1,8 @@
 # smalert-HexagoNN
 
+### Proyecto completo en repositorio:
+Hubo un problema al subir la carpeta smalert_app y se creó un repositorio nuevo [aquí](https://github.com/Rexcoco/SMALERT-Repository)
+
 Este repositorio contiene el código desarrollado para dar solución a un reto del **Hackathon: Un llamado por Colombia**. Se desarrolló dos tecnologías nativas:
 
 + Aplicación móvil en Android que genera alertas tempranas y se alimenta de una base de datos en Cloudant de IBM.
@@ -14,7 +17,3 @@ Esta carpeta contiene el RPA para la extracción de datos de la plataforma SIATA
 En esta carpeta se encuentra el código de la app Smalert realizada en Unity y el APK correspondiente.
 + Projecto app: [APP in Unity](https://drive.google.com/open?id=16J2fuzifWjEX7CBqTSXK8_by2AchcA1B)
 + APK: [APK smalert](https://drive.google.com/open?id=1eLjI-fzqpLK6qlrRCzxl1ByK_EVe7BQm)
-
-
-### Proyecto completo en repositorio:
-Hubo un problema al subir la carpeta smalert_app y se creó un repositorio nuevo [aquí](https://github.com/Rexcoco/SMALERT-Repository)
